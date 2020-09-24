@@ -13,9 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 		README.md = README.md
+		Samples.CmdMultithreading.ProjectTemplate.zip = Samples.CmdMultithreading.ProjectTemplate.zip
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples.CmdMultithreading.Tests", "test\Samples.CmdMultithreading.Tests\Samples.CmdMultithreading.Tests.csproj", "{9ED06AA8-125C-4888-ADF1-F5C80A2B8BA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Samples.CmdMultithreading.Tests", "test\Samples.CmdMultithreading.Tests\Samples.CmdMultithreading.Tests.csproj", "{9ED06AA8-125C-4888-ADF1-F5C80A2B8BA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
